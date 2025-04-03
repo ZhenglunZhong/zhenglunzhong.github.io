@@ -6,7 +6,130 @@
     <description>Recent content in Posts on zhenglun</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 16:46:53 +0800</lastBuildDate>
     <atom:link href="https://zhenglunzhong.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>职业理想</title>
+      <link>https://zhenglunzhong.github.io/post/%E8%81%8C%E4%B8%9A%E7%90%86%E6%83%B3/</link>
+      <pubDate>Thu, 03 Apr 2025 16:46:53 +0800</pubDate>
+      <guid>https://zhenglunzhong.github.io/post/%E8%81%8C%E4%B8%9A%E7%90%86%E6%83%B3/</guid>
+      <description>&lt;p&gt;随便写写，没啥意思。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>个人简历</title>
+      <link>https://zhenglunzhong.github.io/post/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</link>
+      <pubDate>Thu, 03 Apr 2025 16:45:12 +0800</pubDate>
+      <guid>https://zhenglunzhong.github.io/post/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;钟政伦 | AI产品经理&lt;/strong&gt;
+3年经验 | 车载智能语音；大模型应用&lt;/p&gt;
+&lt;p&gt;T: (+86) 181-7679-3369
+W: whereiszzzl
+E: &lt;a href=&#34;mailto:zhongzhenglun@gmail.com&#34;&gt;zhongzhenglun@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;核心优势&#34;&gt;核心优势&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;主导迭代海外多语种车载语音助手，覆盖35+语种，年出货量100w+，市占率80%+；&lt;/li&gt;
+&lt;li&gt;精通语音助手技术栈（声学前端/KWS/ASR/TTS/NLP）和架构服务，具备原子化能力框架搭建和端到端语音产品设计经验；&lt;/li&gt;
+&lt;li&gt;具有LLM技术0-1落地经验，熟悉LLM Prompt优化及LoRA微调，落地语义理解大模型，覆盖12+主流语言；熟悉RAG架构和Function Call，成功落地多Agent智能体架构，增强实时信息获取、路线推荐、汽车手册查询等车载高频场景的用户体验。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;工作经历&#34;&gt;工作经历&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;深圳同行者科技有限公司&lt;/strong&gt;  &lt;strong&gt;AI产品经理&lt;/strong&gt;&lt;br&gt;
+2023.03 - 至今（2025.03）&lt;/p&gt;
+&lt;h4 id=&#34;关键项目1车载语音助手6x公共版本迭代&#34;&gt;关键项目1：车载语音助手6.x公共版本迭代&lt;/h4&gt;
+&lt;h5 id=&#34;主要职责&#34;&gt;&lt;strong&gt;主要职责&lt;/strong&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;重构语音业务体系，推出公共版本，满足短期项目交付需要的同时，兼顾长期迭代与进化；&lt;/li&gt;
+&lt;li&gt;推动产品定位从工具型向认知型智能助理升级，构建核心框架（感知、推理、记忆、执行）；&lt;/li&gt;
+&lt;li&gt;在产品竞争力、用户体验、产研质效三个维度达到车载行业第一梯队水平。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;业绩与价值&#34;&gt;&lt;strong&gt;业绩与价值&lt;/strong&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;主导智能助理核心框架设计&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;设计可插拔原子化能力，支持引擎按需配置，功能模块复用率85%+，新项目适配周期缩短至4周；&lt;/li&gt;
+&lt;li&gt;优化基础引擎指标，与多家技术提供商联合调优，在唤醒率、识别率、响应速度等方面达到行业Top水平；&lt;/li&gt;
+&lt;li&gt;落地多语种NLU大模型，实现12+语种95%高频场景识别率，核心场景识别率98%，减少对海外引擎供应商依赖。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;提升用户体验&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;100%覆盖亮点功能（全时对话、一句话多意图、语音拒识等）；&lt;/li&gt;
+&lt;li&gt;优化指令表与交互体验，覆盖940+意图，NPS提升15%；&lt;/li&gt;
+&lt;li&gt;设计个性化交互系统，用户交互成功率提升20%；&lt;/li&gt;
+&lt;li&gt;通过音频读写优化与内存管理改进，客户端性能占用平均降低35%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;优化产研质效&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;搭建多语种文案管理平台，使新语种上线速度提升3倍，维护成本降低40%；&lt;/li&gt;
+&lt;li&gt;设计SDK支持客户自定义配置，视觉与交互定制需求响应速度提升70%；&lt;/li&gt;
+&lt;li&gt;开发基于RAG的大模型知识库，项目交付产研问题平均解决时效从3小时降至45分钟。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;关键项目2海外后装语音助手迭代&#34;&gt;关键项目2：海外后装语音助手迭代&lt;/h3&gt;
+&lt;h4 id=&#34;主要职责-1&#34;&gt;&lt;strong&gt;主要职责&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;针对全球20+国家、35+语种燃油车后装市场，提供语音助手APK；&lt;/li&gt;
+&lt;li&gt;解决硬件设备客户“差异化竞争”焦虑，提供语音智能化方案；&lt;/li&gt;
+&lt;li&gt;结合用户体验洞察，定义海外自研AI硬件智能化能力，建立硬件-软件-数据三重护城河。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;业绩与价值-1&#34;&gt;&lt;strong&gt;业绩与价值&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;赋能商务扩展&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;复制前装电车亮点功能至后装领域，率先落地大模型对话，市场渗透率达80%，年营收超额10%达标；&lt;/li&gt;
+&lt;li&gt;参与AI硬件智能车机方案开发，已落地MVP产品并进入出海验证阶段。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;应用大模型重塑对话交互&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;落地多Agent智能体架构，支持联网信息查询、汽修问答等核心功能，高端设备功能标配率95%；&lt;/li&gt;
+&lt;li&gt;设计基于行车状态、地理位置、用户画像的Prompt Engineering框架，提供智能对话体验；&lt;/li&gt;
+&lt;li&gt;通过后端语音链路优化，在线场景时延减少40%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据资产驱动增长&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;设计用户语料采集平台，用户录入完成率从25%提升至62%；&lt;/li&gt;
+&lt;li&gt;引入大模型自动标注流水线，语料处理成本降低70%；&lt;/li&gt;
+&lt;li&gt;结合母语者反馈优化指令设计，客户客诉减少68%。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;关键项目3智能家居语音解决方案&#34;&gt;关键项目3：智能家居语音解决方案&lt;/h3&gt;
+&lt;h4 id=&#34;主要职责-2&#34;&gt;&lt;strong&gt;主要职责&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;在「边缘计算×多模态AI×大模型」趋势下，抓住智能家居安防市场机会；&lt;/li&gt;
+&lt;li&gt;为门铃、门锁、监控摄像等产品提供智能语音解决方案，建立业务第二增长曲线。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;业绩与价值-2&#34;&gt;&lt;strong&gt;业绩与价值&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;落地大模型增强语音问答&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;自研语义识别模块，结合LLM+RAG+Function Call，支持40+意图，家居场景意图覆盖率88%；&lt;/li&gt;
+&lt;li&gt;结合搜索引擎、情绪识别、童声识别，增强儿童老人陪伴体验。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;教育背景&#34;&gt;教育背景&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;华南理工大学&lt;/strong&gt;&lt;br&gt;
+计算机科学与技术 本科&lt;br&gt;
+2016.09 - 2020.07&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>个人博客产品Roadmap</title>
+      <link>https://zhenglunzhong.github.io/post/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E4%BA%A7%E5%93%81roadmap/</link>
+      <pubDate>Thu, 03 Apr 2025 15:52:31 +0800</pubDate>
+      <guid>https://zhenglunzhong.github.io/post/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E4%BA%A7%E5%93%81roadmap/</guid>
+      <description>&lt;h2 id=&#34;第一阶段基础功能&#34;&gt;第一阶段：基础功能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Hugo博客系统搭建&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 自动化部署流水线&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我想说把个人的智能体沉淀下来，后续有个真正属于自己的ai接管我的生活，我需要定期用知识反哺这个智能体。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
